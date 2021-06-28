@@ -2,8 +2,10 @@
 //
 
 #include <iostream>
+#include "versioninfo.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Version: " << build_info::version::product_version << std::endl 
+        << "Build: " << build_info::version::build;
 }
