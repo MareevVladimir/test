@@ -1,0 +1,24 @@
+#This is a template of commit message. You must fill 3 forms: Type, Problem, Solution.
+#Example format
+#Type: feature
+#Problem: "Task new feature"
+#Solution: "new_feature.cpp added"
+
+#Available types (feature, perf, bugfix, refactor, doc)
+#	feature - new logic code, added feature
+#	perf	- perfomance increase changes 
+#	bugfix	- a bug fixed
+#	refactor- not logic change, refactoring code
+#	doc		- documentation changes
+
+#Type: feature
+#Type: perf
+#Type: bugfix
+#Type: refactor
+#Type: doc
+
+#Type the reason of change (Why?)
+#Problem:
+
+#Type what you've done	   (What?)
+#Solution:
